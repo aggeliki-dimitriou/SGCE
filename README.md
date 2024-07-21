@@ -4,7 +4,7 @@ Official Repository for "Structure Your Data: Towards Semantic Graph Counterfact
 
 Our paper addresses conceptual counterfactual explanations by structuring data as graphs and calculating counterfactual instances via graph neural network representations.
 
-<p align = "center"><img src = "https://github.com/aggeliki-dimitriou/SGCE/blob/master/outline.png"></p><p align = "center">
+<p align = "center"><img src = "https://github.com/aggeliki-dimitriou/SGCE/blob/main/outline.png"></p><p align = "center">
   <b>Fig.1</b>: Overview of our system
 </p>
 
